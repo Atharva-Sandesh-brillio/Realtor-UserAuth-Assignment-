@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Realtor-UserAuth-Assignment-
+  annotations:
+    github.com/project-slug: Atharva-Sandesh-brillio/Realtor-UserAuth-Assignment-
+spec:
+  type: other
+  lifecycle: unknown
+  owner: "Guest"
