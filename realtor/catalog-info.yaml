@@ -8,6 +8,6 @@ metadata:
     - backend
 spec:
   type: website
-  owner: "Guest"
+  owner: "guests"
   lifecycle: production
   repository: https://github.com/Atharva-Sandesh-brillio/Realtor-UserAuth-Assignment-/tree/Atharva-Sandesh-brillio-backstagedemo
