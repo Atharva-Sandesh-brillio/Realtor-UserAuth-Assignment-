@@ -6,8 +6,6 @@ metadata:
   tags:
     - react
     - backend
-  annotations:
-    external-link/backstage.io: 'https://www.google.com'
 spec:
   type: website
   owner: guests
