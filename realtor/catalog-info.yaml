@@ -6,11 +6,10 @@ metadata:
   tags:
     - react
     - backend
+  annotations:
+    external-link/backstage.io: 'https://www.google.com'
 spec:
   type: website
-  owner: "guests"
+  owner: guests
   lifecycle: production
   repository: https://github.com/Atharva-Sandesh-brillio/Realtor-UserAuth-Assignment-/tree/Atharva-Sandesh-brillio-backstagedemo
-link:
-  url: www.google.com
-  title: google homepage
